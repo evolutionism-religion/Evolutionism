@@ -1,3 +1,5 @@
+**Last edited: Sept. 5, 2021**
+
 Let three propsitions be granted:
 
 First, that there are three types of statements in a chain of logical reasoning: Those that are used to prove other statements, those that are proved by other statements, and those that are both of these. 
