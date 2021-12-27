@@ -1,0 +1,45 @@
+Let three propsitions be granted:
+
+First, that there are three types of statements in a chain of logical reasoning: Those that are used to prove other statements, those that are proved by other statements, and those that are both of these. 
+
+Second, that there exists no infinite chain of reasoning.
+
+Thirdly, that there is no such thing as the supernatural.
+
+Then assume by way of contradiction that there exists a set of ethical facts, that is, true ethical propositions, that are not contingent upon any natural fact.
+
+Then take the set S of all possible chains of ethical reasoning. First discard any chains which commit logical errors or fallacies (that is, those chains which break the rules of logic in describing how the conclusions follow from the premises), then discard any chains which reach false conclusions, then discard any chains which start from false premises. Take the remainder and call it the set S' of all VALID chains of ethical reasoning.
+
+Now take Q, the set of all propositions appearing in any chain s' which is a member of S', i.e. the set of ethical facts, and evaluate each member of Q, discarding any members that are proved by any other members of Q in ANY s'. You are left with set Q', the set of ethical facts not derivable from any other ethical facts.
+
+Now we have assumed that there exist some ethical facts not derivable from natural facts. If that is so, then some subset Q'' of Q' must consist of such ethical facts, for if all q' in Q' were derivable from natural facts then all ethical facts would be also (take a moment to convince yourself that this is so). 
+
+Now if the elements q'' of the set Q'' are not dependent on either ethical or natural facts then they are dependent on nothing at all (since we are leaving aside the supernatural) and are therefore axiomatic. Furthermore, since there are no valid chains of ethical reasoning that we have left unexamined, we may be confident that the set Q'' contains all true ethical axioms.
+
+Now that we have given a method to construct the set of all ethical axioms, let us examine the problems, for in fact the argument which seems to allow us to construct Q'' is invalid in such a way as to render Q'' non-constructable.
+
+The problem arises at the step in which we discarded all chains of ethical reasoning that begin from false premises. A premise that has been arrived at by false reasoning should be ruled out, as should a premise that is obviously wrong, where by "obviously wrong" we mean "in contradiction to what is observed in nature." But the ruling out of "obviously wrong" premises immediately throws us into serious difficulties, for it is the peculiar nature of ethics that a premise that seems "obviously wrong" and in contradiction with the nature of ethics or human beings, etc., to one person may defended as perfectly ethical by another, and vice versa. We could resolve this difficulty and find the truly valid premises if only we had at our disposal a set of fundamental premises which we could be sure are true and derive others from them... but such a set is equivalent to Q'', so we find that we must construct Q'' in order to construct Q''! 
+
+At this point the objection might be made that it is possible to find some OTHER way of constructing Q'' that resolves the difficulty. Indeed, it is possible to see every ethical theory as an attempt to do just that and then elaborate on the consequences. But what complicates this effort greatly is that there are multiple coherent sets of axioms that look like Q'' but are diametrically opposed to each other, and we have difficulty choosing between such sets to find the "real Q''." Let us examine two such candidate sets.
+
+Set A:
+1) There exists a property G that is identical to moral goodness.
+2) To say that an action has G entails that the action is performed by a conscious agent.
+3) To say that an action A has G entails that the if agent B performs action A in circumstances C, it is a categorical obligation of all agents to perform A in a set of circumstances C' with sufficient similarity to C, whether they wish to or not.
+4) There exist actions with the property G; that is, G is instantiated in the physical universe.
+
+Set B:
+1) There exists a property G that is identical to moral goodness.
+2) To say that an action has G entails that the action is performed by a conscious agent.
+3) To say that an action A has G entails that the if agent B performs action A in circumstances C, it is a categorical obligation of all agents to perform A in a set of circumstances C' with sufficient similarity to C, whether they wish to or not.
+4) There do not exist actions with the property G; that is, G is not instantiated in the physical universe.
+
+For these axioms (at least those of Set A) to be useful the relationship of C' to C needs to be worked out carefully, but that does not seem like a fatal flaw in the argument, as it is not something to be established at the level of axioms but rather by considering the similarities and differences between various moral and immoral behaviors. In the same way, the relationship between delta and epsilon is partially established by the definition of a delta-epsilon proof and only completely established when one does the proof for a particular limit on a particular function. The first set seems to lead to something like Kantianism, and the second set seems to lead to something like Error Theory. 
+
+Now, most people would agree that the axioms in Set A are more consistent with their experience of morality than the axioms in Set B. But if we are looking for true axioms that depend on no natural facts, that cannot sway us, and indeed our own ethical preferences cannot even sway us, for each person's experience of morality is itself "merely" a natural fact. Because of inconvenient mathematical theorems like Incompleteness and Indefinability, we cannot be certain that these axioms will never lead us to contradictory statements, but they don't seem likely to and that's a weakness we have to accept in any ethical theory, not just these. Thus we cannot easily discard either set on grounds of logical consistency.
+
+That last sentence is the key to the argument. For if we have two sets, both claiming to be the ONE TRUE set of ethical axioms, and they give contradictory results, AND we cannot reject one or the other on grounds of logical inconsistency, AND we disallow the existence of supernatural facts such as the will of an omniscient God, then it follows that to choose one or the other we must rely on some natural fact, whether that be our own moral intuition, the moral intuition of someone (or some group of people) we trust, our observations of the world, or even the result of a coin toss. 
+
+As a matter of fact we have multiple sets vying for the title of "ONE TRUE set of ethical axioms" and eventually most of them lead to conclusions that contradict some conclusion or another of each of the other contenders. Thus choosing one set of ethical axioms requires reliance on natural facts and in some sense depends on those natural facts. 
+
+Therefore the set Q'' of ethical axioms that are not derivable from natural facts is not constructable, and therefore the set of ethical facts, that is, true ethical propositions, that are not contingent upon any natural fact, does not exist, contradicting our previous assumption, as was to be demonstrated.

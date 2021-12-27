@@ -1,0 +1,30 @@
+
+Argument from axioms:
+
+Grant that there exists no infinite chain of moral reasoning. Then assume, by way of contradiction, that there exists a non-empty set A of autonomous moral truths: that is, true statements expressing moral content with no contingency, or logical dependence, on nonmoral truths.
+
+Now, take that set A. Each member a of A can be organized into a logical chain c, which consists of a subset of A along with an ordering relation showing the logical dependence among the members ai that also are members of c. If one objects that this is not obvious, it may be seen that ANY member ai of A may be, at the very least, be put into a "singleton chain" where the subset of A consists only of ai and the ordering relations simply states that ai is first. 
+
+By the principle granted previously, no chain is infinite. Therefore every chain c must have a first member. Let C be the set of all chains. Let B be the set of all ai that occur as first members of any chain c in C. Take the subset D of all first members that occur ONLY as first members and never at any other position in any chain c. Then D is a set of axioms, or unproven moral truths. They are not dervied, or derivable, from any other moral truth because no valid chain of moral reasoning derives them. We have assumed above that they are not contingent on any nonmoral truth. Therefore they are truly axioms.
+
+Now we introduce the difficulty, namely, that there are multiple possible sets of moral axioms. How should one choose between them? In mathematics, which is the discipline most familiar with axioms, there are two criteria for choosing them: 1) The axioms in any given set must be consistent, i.e. they must not lead to provably contradictory statements (technically Godel proved that it's not possible to prove that any sufficiently strong set of axioms is consistent, but if inconsistency is ever found then the set of axioms must be rejected), and 2) they must be useful for solving the problems one wants to solve. No further criteria seem reasonable to apply to moral axioms. In fact, criterion number 2 is actually not applicable, for to apply criterion number 2 to our selection of moral axioms is to admit the dependence of our axioms on our desire to solve moral problems in a particular way, which would contradict our assumption that they depend on no nonmoral truth. It may be argued that desires are not truths or facts, but it is easy to turn them into facts: If I desire ice cream, then the statement "I desire ice cream" is a fact and is therefore a true statement. If "I desire a consistent moral system which validates moral beliefs I already have" is a true statement and this statement influences my selection of moral axioms, this is the dependence that would violate our assumption at the beginning of the argument.
+
+It may be argued that logical consistency leads to only one possible set of moral axioms. I wil demonstrate that this is not the case by providing at least two examples that I believe to be consistent.
+
+Set A:
+1) There exists a property G that is identical to moral goodness.
+2) To say that an action has G entails that the action is performed by a conscious agent.
+3) To say that an action A has G entails that the if agent B performs action A in cicumstances C, it is a categorical obligation of all agents to perform A in a set of circumstances C' with sufficient similarity to C, whether they wish to or not.
+4) There exist actions with the property G; that is, G is instantiated in the physical universe.
+
+Set B:
+1) There exists a property G that is identical to moral goodness.
+2) To say that an action has G entails that the action is performed by a conscious agent.
+3) To say that an action A has G entails that the if agent B performs action A in cicumstances C, it is a categorical obligation of all agents to perform A in a set of circumstances C' with sufficient similarity to C, whether they wish to or not.
+4) There do not exist actions with the property G; that is, G is not instantiated in the physical universe.
+
+For both of these sets of axioms to be useful the relationship of C' to C needs to be worked out carefully, but that does not seem like a fatal flaw in the argument. The first set seems to lead to something like Kantianism, and the second set seems to lead to something like Error Theory. 
+
+If it is granted that Set A and Set B are both logically consistent sets of moral axioms, then deciding between Set A and Set B immediately leads us to contradict our assumption that none of the statements in Set A or Set B depend on nonmoral truths to establish their truthfulness. For both sets cannot be true, so we must choose one somehow. We have eliminated logical consistency as a criterion since they both satisfy it. We have eliminated our desires as a criterion since it would invalidate our starting assumptions. We cannot rely on the desires of others, or of any group of people, or of any group of conceivable moral agents, for the same reasons by which we cannot rely on our own desires. If we rely on random chance to choose our axioms, that still makes them dependent on nonmorals truths because "the last time I flipped a coin it came up heads" is a verifiable fact or truth, and similar verifiable facts can be constructed for any choice based on probability. There is no other way to make the choice, so the choice cannot be made.
+
+But if all possible moral axioms are true then morality is no longer logically consistent and this argument is meaningless along with all ethical philosophy. So the one option open to us is that there are no moral axioms, and no therefore autonomous moral truths (since there is nothing to derive such truths from), which was to be demonstrated.
